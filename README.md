@@ -32,7 +32,7 @@ All videos are hosted on Google Drive for easy access.
 7.  **TC-IG Like-007**: Verify liked post appears in Liked Posts list → [Watch Video](https://drive.google.com/file/d/1XhrCHvwk0VT_sER1YAIFWLv8PlhFsLFB/view?usp=drivesdk)
 8.  **TC-IG Like-008**: Verify Like button functionality on a comment → [Watch Video](https://drive.google.com/file/d/1P0jeSPBmauOFg0d-myOm0WrvokR16toc/view?usp=drivesdk)
 9.  **TC-IG Like-009**: Verify IG blocks excessive liking in short time → [Watch Video](https://drive.google.com/file/d/1ukXVOJRtTRm8zAMJRnq9wdT7jefZErJp/view?usp=drivesdk)
-10.  **TC-IG Like-010**:  → [Watch Video]()
+10.  **TC-IG Like-010**: Verify Like action syncs in real-time across Feed, Post Detail, and Profile tab → [Watch Video](https://drive.google.com/file/d/1FgLdnVfLkAHUoRrFyDlSNUNKONIG3-30/view?usp=drivesdk)
 
 ## 🛠️ Tools Used
 - **Test Management**: Notion
