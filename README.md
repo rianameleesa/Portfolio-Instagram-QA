@@ -4,20 +4,19 @@ This repository contains my QA documentation and evidence for Instagram's core f
 
 ## 📋 Test Plan
 A summary of the testing scope, objectives, and strategy for Instagram's "Like" feature.
-- **File**: `Notion.pdf`
+- **File**: `Test Plan_IG Like.pdf`
 
 ### Key Areas Covered:
 - Functional testing for Like/Unlike
-- UI validation for heart icon and animation
+- UI validation for heart icon and animation  
 - Spam prevention validation
-- Data persistence after reopening app
-- Error handling for network failure
+- Integration & Real-time Sync testing
 - Compatibility testing on iPadOS
 
 ## 🧪 Test Cases
 Detailed test cases with steps, expected results, and status.
-- **Location**: See the table inside `Notion.pdf`
-- **Total**: 10 Test Cases | **Executed**: 9 | **Passed**: 7 | **Failed**: 2
+- **Location**: See the table inside `Test Plan_IG Like.pdf`
+- **Total**: 10 Test Cases | **Executed**: 10 | **Passed**: 8 | **Failed**: 2
 
 ## 📹 Evidence
 Video proof of manual testing executed on Instagram mobile app.
